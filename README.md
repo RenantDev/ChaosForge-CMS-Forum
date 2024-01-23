@@ -24,7 +24,7 @@ O ChaosForge CMS & Forum é uma solução integrada com Flask e Python que ofere
 
 ## Contribuições
 
-Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do projeto, faça suas alterações e envie um Pull Request.
+Contribuições são sempre bem-vindas! Para contribuir, por favor, crie um fork do projeto, faça suas alterações da branch trunk e envie um Pull Request.
 
 ## Licença
 
